@@ -1,0 +1,32 @@
+{
+    "teachers":  [
+                     {
+                         "id":  "t_sample_1",
+                         "bio":  "S1 Pendidikan Matematika, berpengalaman 5 tahun mengajar siswa SD dan SMP",
+                         "createdAt":  "2026-11-13T21:55:20.1202683+08:00",
+                         "bidang":  "Matematika SD \u0026 SMP",
+                         "nama":  "Rina Marlina, S.Pd.",
+                         "telepon":  "0895639178872"
+                     }
+                 ],
+    "students":  [
+
+                 ],
+    "settings":  {
+                     "admin":  {
+                                   "password":  "admin123"
+                               },
+                     "pricing":  {
+                                     "Komputer":  {
+                                                      "Kelompok":  175000,
+                                                      "Online":  140000,
+                                                      "Privat":  350000
+                                                  },
+                                     "Matematika":  {
+                                                        "Kelompok":  150000,
+                                                        "Online":  120000,
+                                                        "Privat":  300000
+                                                    }
+                                 }
+                 }
+}
