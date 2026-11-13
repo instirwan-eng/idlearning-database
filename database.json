@@ -10,7 +10,18 @@
                      }
                  ],
     "students":  [
-
+                     {
+                         "id":  "s_demo_1",
+                         "nama":  "Ahmad Pratama",
+                         "alamat":  "Jl. Gora 1 Selagalas, Mataram",
+                         "kelas":  "Kelas 5 SD",
+                         "whatsapp":  "081234567890",
+                         "paket":  "Matematika",
+                         "subKategori":  "Matematika SD (Kelas 4 - 6)",
+                         "mode":  "Kelompok",
+                         "biayaSaatDaftar":  150000,
+                         "createdAt":  "2026-11-14T04:09:01.8049782+08:00"
+                     }
                  ],
     "settings":  {
                      "admin":  {
