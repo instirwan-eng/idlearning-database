@@ -247,98 +247,7 @@
       "keterangan": "Simulasi UTBK"
     }
   ],
-  "exams": [
-    {
-      "id": 1,
-      "judul": "Tryout UTBK SNBT: Penalaran Matematika",
-      "pelajaran": "Matematika",
-      "kelas": 12,
-      "durasi_menit": 45,
-      "questions": [
-        {
-          "id": 1,
-          "nomor_urut": 1,
-          "pertanyaan": "Diketahui fungsi kuadrat $f(x) = 2x^2 - 8x + 6$. Nilai minimum dari fungsi $f(x)$ adalah ...",
-          "opsi_a": "$-4$",
-          "opsi_b": "$-2$",
-          "opsi_c": "$0$",
-          "opsi_d": "$2$",
-          "opsi_e": "$6$",
-          "kunci_jawaban": "B",
-          "pembahasan": "Sumbu simetri $x_p = -\\frac{b}{2a} = -\\frac{-8}{2(2)} = 2$. Substitusikan $x = 2$ ke $f(x)$: $$f(2) = 2(2)^2 - 8(2) + 6 = 8 - 16 + 6 = -2.$$ Jadi nilai minimumnya adalah $-2$."
-        },
-        {
-          "id": 2,
-          "nomor_urut": 2,
-          "pertanyaan": "Hasil dari $\\int_{1}^{3} (3x^2 - 2x + 1)\\,dx$ adalah ...",
-          "opsi_a": "$16$",
-          "opsi_b": "$18$",
-          "opsi_c": "$20$",
-          "opsi_d": "$22$",
-          "opsi_e": "$24$",
-          "kunci_jawaban": "C",
-          "pembahasan": "Hitung antiturunannya: $$\\int (3x^2 - 2x + 1)\\,dx = x^3 - x^2 + x.$$ Evaluasi batas $1$ sampai $3$: $$(3^3 - 3^2 + 3) - (1^3 - 1^2 + 1) = (27 - 9 + 3) - (1 - 1 + 1) = 21 - 1 = 20.$$"
-        },
-        {
-          "id": 3,
-          "nomor_urut": 3,
-          "pertanyaan": "Jika matriks $A = \\begin{pmatrix} 2 & 1 \\\\ 5 & 3 \\end{pmatrix}$, maka determinan dari matriks $A^{-1}$ adalah ...",
-          "opsi_a": "$1$",
-          "opsi_b": "$2$",
-          "opsi_c": "$\\frac{1}{2}$",
-          "opsi_d": "$-1$",
-          "opsi_e": "$0$",
-          "kunci_jawaban": "A",
-          "pembahasan": "Determinan $A$ adalah $\\det(A) = (2)(3) - (1)(5) = 6 - 5 = 1$. Berdasarkan sifat determinan invers, $\\det(A^{-1}) = \\frac{1}{\\det(A)} = 1$."
-        },
-        {
-          "id": 4,
-          "nomor_urut": 4,
-          "pertanyaan": "Diketahui barisan aritmetika dengan suku ke-3 adalah $11$ dan suku ke-7 adalah $23$. Jumlah $10$ suku pertama barisan tersebut adalah ...",
-          "opsi_a": "$165$",
-          "opsi_b": "$175$",
-          "opsi_c": "$185$",
-          "opsi_d": "$195$",
-          "opsi_e": "$205$",
-          "kunci_jawaban": "C",
-          "pembahasan": "Beda barisan: $b = \\frac{23 - 11}{7 - 3} = 3$. Suku pertama $a = 11 - 2(3) = 5$. Maka $S_{10} = \\frac{10}{2}(2(5) + 9(3)) = 5(37) = 185.$"
-        },
-        {
-          "id": 5,
-          "nomor_urut": 5,
-          "pertanyaan": "Nilai dari $\\lim_{x \\to 2} \\frac{x^2 - 4}{x - 2}$ adalah ...",
-          "opsi_a": "$0$",
-          "opsi_b": "$2$",
-          "opsi_c": "$4$",
-          "opsi_d": "$6$",
-          "opsi_e": "$8$",
-          "kunci_jawaban": "C",
-          "pembahasan": "Faktorkan pembilang: $$\\lim_{x \\to 2} \\frac{(x-2)(x+2)}{x-2} = \\lim_{x \\to 2}(x+2) = 4.$$"
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "judul": "Evaluasi UTBK: Literasi Bahasa Indonesia",
-      "pelajaran": "Bahasa Indonesia",
-      "kelas": 12,
-      "durasi_menit": 30,
-      "questions": [
-        {
-          "id": 6,
-          "nomor_urut": 1,
-          "pertanyaan": "Kalimat berikut yang menggunakan ejaan sesuai dengan EYD Edisi V secara tepat adalah ...",
-          "opsi_a": "Diantara para peserta ujian, hanya lima orang yang membawa kartu tanda penduduk.",
-          "opsi_b": "Semua siswa diwajibkan hadir tepat waktu, namun demikian beberapa masih terlambat.",
-          "opsi_c": "Penelitian tersebut dilakukan di laboratorium biologi pada pukul 08.00 WIB.",
-          "opsi_d": "Aktifitas belajar mengajar di YPI Bidayatul Hidayah berjalan sangat kondusif.",
-          "opsi_e": "Para siswa-siswa kelas XII mengikuti tryout UTBK secara serentak.",
-          "kunci_jawaban": "C",
-          "pembahasan": "Penulisan kata baku dan tanda baca yang tepat ada pada opsi C: 'di laboratorium' dipisah menunjukkan tempat, 'pukul 08.00 WIB' menggunakan tanda titik sebagai pemisah waktu."
-        }
-      ]
-    }
-  ],
+  "exams": [],
   "attempts": [
     {
       "id": 1,
@@ -349,7 +258,7 @@
       },
       "benar": 1,
       "total_soal": 1,
-      "nilai": 100.0,
+      "nilai": 100,
       "durasi_detik": 600,
       "submitted_at": "2026-11-24 10:15:00"
     },
@@ -366,7 +275,7 @@
       },
       "benar": 4,
       "total_soal": 5,
-      "nilai": 80.0,
+      "nilai": 80,
       "durasi_detik": 1200,
       "submitted_at": "2026-11-24 14:30:00"
     }
