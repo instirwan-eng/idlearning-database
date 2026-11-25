@@ -7,30 +7,6 @@
       "role": "guru",
       "full_name": "Irwan Iswandi",
       "kelas": null
-    },
-    {
-      "id": 2,
-      "username": "siswa1",
-      "password": "siswa123",
-      "role": "siswa",
-      "full_name": "Ahmad Zaki Pratama",
-      "kelas": 12
-    },
-    {
-      "id": 3,
-      "username": "siswa2",
-      "password": "siswa123",
-      "role": "siswa",
-      "full_name": "Siti Nurhaliza",
-      "kelas": 12
-    },
-    {
-      "id": 4,
-      "username": "siswa3",
-      "password": "siswa123",
-      "role": "siswa",
-      "full_name": "Muhammad Rizky",
-      "kelas": 10
     }
   ],
   "consumables": [
