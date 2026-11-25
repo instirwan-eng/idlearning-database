@@ -15,6 +15,15 @@
       "role": "guru",
       "full_name": "Irwan Iswandi",
       "kelas": null
+    },
+    {
+      "id": 101,
+      "role": "siswa",
+      "full_name": "Daffin Ganteng",
+      "username": "Daffin",
+      "kelas": 4,
+      "password": "123456",
+      "created_at": "2026-11-25T21:30:34.071Z"
     }
   ],
   "consumables": [
