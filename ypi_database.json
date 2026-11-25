@@ -1,6 +1,14 @@
 {
   "users": [
     {
+      "id": 100,
+      "username": "admin",
+      "password": "admin123",
+      "role": "admin",
+      "full_name": "Administrator Inventaris",
+      "kelas": null
+    },
+    {
       "id": 1,
       "username": "guru",
       "password": "guru123",
