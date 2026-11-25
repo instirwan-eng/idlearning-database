@@ -224,54 +224,6 @@
     }
   ],
   "exams": [],
-  "attempts": [
-    {
-      "id": 1,
-      "exam_id": 2,
-      "student_id": 2,
-      "answers": {
-        "1": "C"
-      },
-      "benar": 1,
-      "total_soal": 1,
-      "nilai": 100,
-      "durasi_detik": 600,
-      "submitted_at": "2026-11-24 10:15:00"
-    },
-    {
-      "id": 2,
-      "exam_id": 1,
-      "student_id": 3,
-      "answers": {
-        "1": "B",
-        "2": "C",
-        "3": "A",
-        "4": "C",
-        "5": "A"
-      },
-      "benar": 4,
-      "total_soal": 5,
-      "nilai": 80,
-      "durasi_detik": 1200,
-      "submitted_at": "2026-11-24 14:30:00"
-    }
-  ],
-  "exam_access": [
-    {
-      "exam_id": 2,
-      "student_id": 2,
-      "is_locked": 1,
-      "retake_requested": 0,
-      "request_note": "",
-      "updated_at": "2026-11-24 10:15:00"
-    },
-    {
-      "exam_id": 1,
-      "student_id": 3,
-      "is_locked": 1,
-      "retake_requested": 1,
-      "request_note": "Ingin memperbaiki nilai ke 100",
-      "updated_at": "2026-11-25 08:00:00"
-    }
-  ]
+  "attempts": [],
+  "exam_access": []
 }
