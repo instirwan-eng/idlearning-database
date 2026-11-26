@@ -389,7 +389,173 @@
       "keterangan": "Bimbingan intensif"
     }
   ],
-  "equipment": [],
+  "equipment": [
+    {
+      "id": 1,
+      "nama_barang": "CUTTER JOYKO L500",
+      "kategori": "ATK",
+      "stok_awal": 46,
+      "stok_masuk": 0,
+      "stok_keluar": 0,
+      "kelayakan": "Layak",
+      "status": "Ada",
+      "lokasi_barang": "RUANG STAF"
+    },
+    {
+      "id": 2,
+      "nama_barang": "GUNTING BESAR MONTANA",
+      "kategori": "ATK",
+      "stok_awal": 4,
+      "stok_masuk": 0,
+      "stok_keluar": 0,
+      "kelayakan": "Layak",
+      "status": "Ada",
+      "lokasi_barang": "RUANG STAF"
+    },
+    {
+      "id": 3,
+      "nama_barang": "PENGHAPUS PAPAN",
+      "kategori": "ATK",
+      "stok_awal": 3,
+      "stok_masuk": 0,
+      "stok_keluar": 0,
+      "kelayakan": "Layak",
+      "status": "Ada",
+      "lokasi_barang": "RUANG STAF"
+    },
+    {
+      "id": 4,
+      "nama_barang": "STEPLES KECIL DELI",
+      "kategori": "ATK",
+      "stok_awal": 20,
+      "stok_masuk": 0,
+      "stok_keluar": 0,
+      "kelayakan": "Layak",
+      "status": "Ada",
+      "lokasi_barang": "RUANG STAF"
+    },
+    {
+      "id": 5,
+      "nama_barang": "STEPLES BESAR JOYKO",
+      "kategori": "ATK",
+      "stok_awal": 8,
+      "stok_masuk": 0,
+      "stok_keluar": 0,
+      "kelayakan": "Layak",
+      "status": "Ada",
+      "lokasi_barang": "RUANG STAF"
+    },
+    {
+      "id": 6,
+      "nama_barang": "ALAT PEL",
+      "kategori": "KEBERSIHAN",
+      "stok_awal": 0,
+      "stok_masuk": 20,
+      "stok_keluar": 0,
+      "kelayakan": "Layak",
+      "status": "Ada",
+      "lokasi_barang": "RUANG STAF"
+    },
+    {
+      "id": 7,
+      "nama_barang": "CUTTER KECIL",
+      "kategori": "KEBERSIHAN",
+      "stok_awal": 0,
+      "stok_masuk": 20,
+      "stok_keluar": 0,
+      "kelayakan": "Layak",
+      "status": "Ada",
+      "lokasi_barang": "RUANG STAF"
+    },
+    {
+      "id": 8,
+      "nama_barang": "KERANJANG SAMPAH",
+      "kategori": "KEBERSIHAN",
+      "stok_awal": 0,
+      "stok_masuk": 20,
+      "stok_keluar": 0,
+      "kelayakan": "Layak",
+      "status": "Ada",
+      "lokasi_barang": "RUANG STAF"
+    },
+    {
+      "id": 9,
+      "nama_barang": "SAPU IJUK",
+      "kategori": "KEBERSIHAN",
+      "stok_awal": 0,
+      "stok_masuk": 20,
+      "stok_keluar": 0,
+      "kelayakan": "Layak",
+      "status": "Ada",
+      "lokasi_barang": "RUANG STAF"
+    },
+    {
+      "id": 10,
+      "nama_barang": "SAPU LIDI",
+      "kategori": "KEBERSIHAN",
+      "stok_awal": 0,
+      "stok_masuk": 18,
+      "stok_keluar": 0,
+      "kelayakan": "Layak",
+      "status": "Ada",
+      "lokasi_barang": "RUANG STAF"
+    },
+    {
+      "id": 11,
+      "nama_barang": "SEKOP SAMPAH",
+      "kategori": "KEBERSIHAN",
+      "stok_awal": 0,
+      "stok_masuk": 10,
+      "stok_keluar": 0,
+      "kelayakan": "Layak",
+      "status": "Ada",
+      "lokasi_barang": "RUANG STAF"
+    },
+    {
+      "id": 12,
+      "nama_barang": "MATRAS",
+      "kategori": "OLAHRAGA",
+      "stok_awal": 0,
+      "stok_masuk": 2,
+      "stok_keluar": 0,
+      "kelayakan": "Layak",
+      "status": "Ada",
+      "lokasi_barang": "RUANG STAF"
+    },
+    {
+      "id": 13,
+      "nama_barang": "BOLA BASKET MOLTEN",
+      "kategori": "OLAHRAGA",
+      "stok_awal": 0,
+      "stok_masuk": 3,
+      "stok_keluar": 0,
+      "kelayakan": "Layak",
+      "status": "Ada",
+      "lokasi_barang": "RUANG STAF"
+    },
+    {
+      "id": 14,
+      "nama_barang": "BOLA SEPAK",
+      "kategori": "OLAHRAGA",
+      "stok_awal": 0,
+      "stok_masuk": 5,
+      "stok_keluar": 0,
+      "kelayakan": "Layak",
+      "status": "Ada",
+      "lokasi_barang": "RUANG STAF"
+    },
+    {
+      "id": 15,
+      "nama_barang": "GUNTING KECIL",
+      "kategori": "ATK",
+      "stok_awal": 0,
+      "stok_masuk": 20,
+      "stok_keluar": 0,
+      "kelayakan": "Layak",
+      "status": "Ada",
+      "lokasi_barang": "RUANG STAF"
+    }
+  ],
   "equipment_logs": [
     {
       "id": 1,
