@@ -26,7 +26,327 @@
       "created_at": "2026-11-25T21:31:34.295Z"
     }
   ],
-  "consumables": [],
+  "consumables": [
+    {
+      "id": 1,
+      "nama_barang": "DOUBLE TIP (24 MM X 10 YD)",
+      "satuan": "Pcs",
+      "kategori": "ATK",
+      "jumlah_awal": 93,
+      "barang_masuk": 0,
+      "barang_dipakai": 0,
+      "batas_menipis": 5,
+      "lokasi_barang": "RUANG STAFF"
+    },
+    {
+      "id": 2,
+      "nama_barang": "DOUBLE TIP (48 MM X 10 YD)",
+      "satuan": "Pcs",
+      "kategori": "ATK",
+      "jumlah_awal": 18,
+      "barang_masuk": 0,
+      "barang_dipakai": 0,
+      "batas_menipis": 5,
+      "lokasi_barang": "RUANG STAFF"
+    },
+    {
+      "id": 3,
+      "nama_barang": "SPIDOL HITAM SNOWMAN",
+      "satuan": "Pcs",
+      "kategori": "ATK",
+      "jumlah_awal": 202,
+      "barang_masuk": 0,
+      "barang_dipakai": 0,
+      "batas_menipis": 5,
+      "lokasi_barang": "RUANG STAFF"
+    },
+    {
+      "id": 4,
+      "nama_barang": "SPIDOL MERAH SNOWMAN",
+      "satuan": "Pcs",
+      "kategori": "ATK",
+      "jumlah_awal": 24,
+      "barang_masuk": 0,
+      "barang_dipakai": 0,
+      "batas_menipis": 5,
+      "lokasi_barang": "RUANG STAFF"
+    },
+    {
+      "id": 5,
+      "nama_barang": "LAKBAN CLOTH (46 MM X 12 M) BIRU",
+      "satuan": "Pcs",
+      "kategori": "ATK",
+      "jumlah_awal": 4,
+      "barang_masuk": 0,
+      "barang_dipakai": 0,
+      "batas_menipis": 5,
+      "lokasi_barang": "RUANG STAFF"
+    },
+    {
+      "id": 6,
+      "nama_barang": "LAKBAN CLOTH (46 MM X 12 M) MERAH",
+      "satuan": "Pcs",
+      "kategori": "ATK",
+      "jumlah_awal": 5,
+      "barang_masuk": 0,
+      "barang_dipakai": 0,
+      "batas_menipis": 5,
+      "lokasi_barang": "RUANG STAFF"
+    },
+    {
+      "id": 7,
+      "nama_barang": "LAKBAN CLOTH (46 MM X 12 M) KUNING",
+      "satuan": "Pcs",
+      "kategori": "ATK",
+      "jumlah_awal": 5,
+      "barang_masuk": 0,
+      "barang_dipakai": 0,
+      "batas_menipis": 5,
+      "lokasi_barang": "RUANG STAFF"
+    },
+    {
+      "id": 8,
+      "nama_barang": "LAKBAN CLOTH (46 MM X 12 M) HIJAU",
+      "satuan": "Pcs",
+      "kategori": "ATK",
+      "jumlah_awal": 2,
+      "barang_masuk": 0,
+      "barang_dipakai": 0,
+      "batas_menipis": 5,
+      "lokasi_barang": "RUANG STAFF"
+    },
+    {
+      "id": 9,
+      "nama_barang": "LAKBAN CLOTH (35 MM X 12 M) BIRU",
+      "satuan": "Pcs",
+      "kategori": "ATK",
+      "jumlah_awal": 3,
+      "barang_masuk": 0,
+      "barang_dipakai": 0,
+      "batas_menipis": 5,
+      "lokasi_barang": "RUANG STAFF"
+    },
+    {
+      "id": 10,
+      "nama_barang": "LAKBAN CLOTH (35 MM X 12 M) HITAM",
+      "satuan": "Pcs",
+      "kategori": "ATK",
+      "jumlah_awal": 6,
+      "barang_masuk": 0,
+      "barang_dipakai": 0,
+      "batas_menipis": 5,
+      "lokasi_barang": "RUANG STAFF"
+    },
+    {
+      "id": 11,
+      "nama_barang": "LAKBAN CLOTH (35 MM X 12 M) KUNING",
+      "satuan": "Pcs",
+      "kategori": "ATK",
+      "jumlah_awal": 5,
+      "barang_masuk": 0,
+      "barang_dipakai": 0,
+      "batas_menipis": 5,
+      "lokasi_barang": "RUANG STAFF"
+    },
+    {
+      "id": 12,
+      "nama_barang": "LAKBAN BERRY (46 MM X 10 YD) HIJAU",
+      "satuan": "Pcs",
+      "kategori": "ATK",
+      "jumlah_awal": 67,
+      "barang_masuk": 0,
+      "barang_dipakai": 0,
+      "batas_menipis": 5,
+      "lokasi_barang": "RUANG STAFF"
+    },
+    {
+      "id": 13,
+      "nama_barang": "LAKBAN BERRY (34 MM X 10 YD) HIJAU",
+      "satuan": "Pcs",
+      "kategori": "ATK",
+      "jumlah_awal": 17,
+      "barang_masuk": 0,
+      "barang_dipakai": 0,
+      "batas_menipis": 5,
+      "lokasi_barang": "RUANG STAFF"
+    },
+    {
+      "id": 14,
+      "nama_barang": "ISI STEPLES NO 10",
+      "satuan": "BOX",
+      "kategori": "ATK",
+      "jumlah_awal": 36,
+      "barang_masuk": 0,
+      "barang_dipakai": 0,
+      "batas_menipis": 5,
+      "lokasi_barang": "RUANG STAFF"
+    },
+    {
+      "id": 15,
+      "nama_barang": "ISI STEPLES NO 3",
+      "satuan": "BOX",
+      "kategori": "ATK",
+      "jumlah_awal": 33,
+      "barang_masuk": 0,
+      "barang_dipakai": 0,
+      "batas_menipis": 5,
+      "lokasi_barang": "RUANG STAFF"
+    },
+    {
+      "id": 16,
+      "nama_barang": "ISI STEPLES KANGARO 23/17",
+      "satuan": "BOX",
+      "kategori": "ATK",
+      "jumlah_awal": 3,
+      "barang_masuk": 0,
+      "barang_dipakai": 0,
+      "batas_menipis": 5,
+      "lokasi_barang": "RUANG STAFF"
+    },
+    {
+      "id": 17,
+      "nama_barang": "PULPEN SNOWMAN V5 HITAM",
+      "satuan": "Pcs",
+      "kategori": "ATK",
+      "jumlah_awal": 192,
+      "barang_masuk": 0,
+      "barang_dipakai": 0,
+      "batas_menipis": 5,
+      "lokasi_barang": "RUANG STAFF"
+    },
+    {
+      "id": 18,
+      "nama_barang": "ISI CUTTER JOYKO L-150",
+      "satuan": "BOX",
+      "kategori": "ATK",
+      "jumlah_awal": 108,
+      "barang_masuk": 0,
+      "barang_dipakai": 0,
+      "batas_menipis": 5,
+      "lokasi_barang": "RUANG STAFF"
+    },
+    {
+      "id": 19,
+      "nama_barang": "KERTAS BUFFALO HIJAU",
+      "satuan": "PAK",
+      "kategori": "ATK",
+      "jumlah_awal": 5,
+      "barang_masuk": 0,
+      "barang_dipakai": 0,
+      "batas_menipis": 5,
+      "lokasi_barang": "RUANG STAFF"
+    },
+    {
+      "id": 20,
+      "nama_barang": "KERTAS BUFFALO BIRU",
+      "satuan": "PAK",
+      "kategori": "ATK",
+      "jumlah_awal": 3,
+      "barang_masuk": 0,
+      "barang_dipakai": 0,
+      "batas_menipis": 5,
+      "lokasi_barang": "RUANG STAFF"
+    },
+    {
+      "id": 21,
+      "nama_barang": "MIKA FILM",
+      "satuan": "PAK",
+      "kategori": "ATK",
+      "jumlah_awal": 4,
+      "barang_masuk": 0,
+      "barang_dipakai": 0,
+      "batas_menipis": 5,
+      "lokasi_barang": "RUANG STAFF"
+    },
+    {
+      "id": 22,
+      "nama_barang": "KERTAS HVS F4",
+      "satuan": "RIM",
+      "kategori": "ATK",
+      "jumlah_awal": 12,
+      "barang_masuk": 15,
+      "barang_dipakai": 0,
+      "batas_menipis": 5,
+      "lokasi_barang": "RUANG STAFF"
+    },
+    {
+      "id": 23,
+      "nama_barang": "TINTA PRINTER EPSON (HITAM)",
+      "satuan": "Pcs",
+      "kategori": "ATK",
+      "jumlah_awal": 0,
+      "barang_masuk": 10,
+      "barang_dipakai": 0,
+      "batas_menipis": 5,
+      "lokasi_barang": "RUANG STAFF"
+    },
+    {
+      "id": 24,
+      "nama_barang": "ISOLASI BENING KECIL",
+      "satuan": "Pcs",
+      "kategori": "ATK",
+      "jumlah_awal": 0,
+      "barang_masuk": 2,
+      "barang_dipakai": 0,
+      "batas_menipis": 5,
+      "lokasi_barang": "RUANG STAFF"
+    },
+    {
+      "id": 25,
+      "nama_barang": "AMPLOP",
+      "satuan": "BOX",
+      "kategori": "ATK",
+      "jumlah_awal": 0,
+      "barang_masuk": 5,
+      "barang_dipakai": 0,
+      "batas_menipis": 5,
+      "lokasi_barang": "RUANG STAFF"
+    },
+    {
+      "id": 26,
+      "nama_barang": "LEM KERTAS CAIR",
+      "satuan": "Pcs",
+      "kategori": "ATK",
+      "jumlah_awal": 0,
+      "barang_masuk": 10,
+      "barang_dipakai": 0,
+      "batas_menipis": 5,
+      "lokasi_barang": "RUANG STAFF"
+    },
+    {
+      "id": 27,
+      "nama_barang": "BUKU KWARTO",
+      "satuan": "Pcs",
+      "kategori": "ATK",
+      "jumlah_awal": 0,
+      "barang_masuk": 1,
+      "barang_dipakai": 0,
+      "batas_menipis": 5,
+      "lokasi_barang": "RUANG STAFF"
+    },
+    {
+      "id": 28,
+      "nama_barang": "KERTAS HVS A4",
+      "satuan": "RIM",
+      "kategori": "ATK",
+      "jumlah_awal": 0,
+      "barang_masuk": 15,
+      "barang_dipakai": 0,
+      "batas_menipis": 5,
+      "lokasi_barang": "RUANG STAFF"
+    },
+    {
+      "id": 29,
+      "nama_barang": "cairan pembersih lantai",
+      "satuan": "Pcs",
+      "kategori": "KEBERSIHAN",
+      "jumlah_awal": 0,
+      "barang_masuk": 20,
+      "barang_dipakai": 0,
+      "batas_menipis": 5,
+      "lokasi_barang": "RUANG STAFF"
+    }
+  ],
   "consumable_logs": [
     {
       "id": 1,
