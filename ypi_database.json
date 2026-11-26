@@ -33,6 +33,15 @@
       "kelas": 2,
       "password": "ahmed123",
       "created_at": "2026-11-26T04:27:37.084Z"
+    },
+    {
+      "id": 103,
+      "role": "siswa",
+      "full_name": "ZAKIR ABDULLAH ALTHAAF",
+      "username": "Alta",
+      "kelas": 4,
+      "password": "alta123",
+      "created_at": "2026-11-16T06:47:52.910Z"
     }
   ],
   "consumables": [
