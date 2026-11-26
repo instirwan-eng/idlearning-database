@@ -45,7 +45,8 @@
       "barang_masuk": 0,
       "barang_dipakai": 0,
       "batas_menipis": 5,
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 2,
@@ -56,7 +57,8 @@
       "barang_masuk": 0,
       "barang_dipakai": 0,
       "batas_menipis": 5,
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 3,
@@ -67,7 +69,8 @@
       "barang_masuk": 0,
       "barang_dipakai": 0,
       "batas_menipis": 5,
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 4,
@@ -78,7 +81,8 @@
       "barang_masuk": 0,
       "barang_dipakai": 0,
       "batas_menipis": 5,
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 5,
@@ -89,7 +93,8 @@
       "barang_masuk": 0,
       "barang_dipakai": 0,
       "batas_menipis": 5,
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 6,
@@ -100,7 +105,8 @@
       "barang_masuk": 0,
       "barang_dipakai": 0,
       "batas_menipis": 5,
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 7,
@@ -111,7 +117,8 @@
       "barang_masuk": 0,
       "barang_dipakai": 0,
       "batas_menipis": 5,
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 8,
@@ -122,7 +129,8 @@
       "barang_masuk": 0,
       "barang_dipakai": 0,
       "batas_menipis": 5,
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 9,
@@ -133,7 +141,8 @@
       "barang_masuk": 0,
       "barang_dipakai": 0,
       "batas_menipis": 5,
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 10,
@@ -144,7 +153,8 @@
       "barang_masuk": 0,
       "barang_dipakai": 0,
       "batas_menipis": 5,
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 11,
@@ -155,7 +165,8 @@
       "barang_masuk": 0,
       "barang_dipakai": 0,
       "batas_menipis": 5,
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 12,
@@ -166,7 +177,8 @@
       "barang_masuk": 0,
       "barang_dipakai": 0,
       "batas_menipis": 5,
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 13,
@@ -177,7 +189,8 @@
       "barang_masuk": 0,
       "barang_dipakai": 0,
       "batas_menipis": 5,
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 14,
@@ -188,7 +201,8 @@
       "barang_masuk": 0,
       "barang_dipakai": 0,
       "batas_menipis": 5,
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 15,
@@ -199,7 +213,8 @@
       "barang_masuk": 0,
       "barang_dipakai": 0,
       "batas_menipis": 5,
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 16,
@@ -210,7 +225,8 @@
       "barang_masuk": 0,
       "barang_dipakai": 0,
       "batas_menipis": 5,
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 17,
@@ -221,7 +237,8 @@
       "barang_masuk": 0,
       "barang_dipakai": 0,
       "batas_menipis": 5,
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 18,
@@ -232,7 +249,8 @@
       "barang_masuk": 0,
       "barang_dipakai": 0,
       "batas_menipis": 5,
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 19,
@@ -243,7 +261,8 @@
       "barang_masuk": 0,
       "barang_dipakai": 0,
       "batas_menipis": 5,
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 20,
@@ -254,7 +273,8 @@
       "barang_masuk": 0,
       "barang_dipakai": 0,
       "batas_menipis": 5,
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 21,
@@ -265,84 +285,92 @@
       "barang_masuk": 0,
       "barang_dipakai": 0,
       "batas_menipis": 5,
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 22,
       "nama_barang": "KERTAS HVS F4",
       "satuan": "RIM",
       "kategori": "ATK",
-      "jumlah_awal": 12,
-      "barang_masuk": 15,
+      "jumlah_awal": 27,
+      "barang_masuk": 0,
       "barang_dipakai": 0,
       "batas_menipis": 5,
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 23,
       "nama_barang": "TINTA PRINTER EPSON (HITAM)",
       "satuan": "Pcs",
       "kategori": "ATK",
-      "jumlah_awal": 0,
-      "barang_masuk": 10,
+      "jumlah_awal": 10,
+      "barang_masuk": 0,
       "barang_dipakai": 0,
       "batas_menipis": 5,
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 24,
       "nama_barang": "ISOLASI BENING KECIL",
       "satuan": "Pcs",
       "kategori": "ATK",
-      "jumlah_awal": 0,
-      "barang_masuk": 2,
+      "jumlah_awal": 2,
+      "barang_masuk": 0,
       "barang_dipakai": 0,
       "batas_menipis": 5,
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 25,
       "nama_barang": "AMPLOP",
       "satuan": "BOX",
       "kategori": "ATK",
-      "jumlah_awal": 0,
-      "barang_masuk": 5,
+      "jumlah_awal": 5,
+      "barang_masuk": 0,
       "barang_dipakai": 0,
       "batas_menipis": 5,
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 26,
       "nama_barang": "LEM KERTAS CAIR",
       "satuan": "Pcs",
       "kategori": "ATK",
-      "jumlah_awal": 0,
-      "barang_masuk": 10,
+      "jumlah_awal": 10,
+      "barang_masuk": 0,
       "barang_dipakai": 0,
       "batas_menipis": 5,
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 27,
       "nama_barang": "BUKU KWARTO",
       "satuan": "Pcs",
       "kategori": "ATK",
-      "jumlah_awal": 0,
-      "barang_masuk": 1,
+      "jumlah_awal": 1,
+      "barang_masuk": 0,
       "barang_dipakai": 0,
       "batas_menipis": 5,
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 28,
       "nama_barang": "KERTAS HVS A4",
       "satuan": "RIM",
       "kategori": "ATK",
-      "jumlah_awal": 0,
-      "barang_masuk": 15,
+      "jumlah_awal": 15,
+      "barang_masuk": 0,
       "barang_dipakai": 0,
       "batas_menipis": 5,
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     }
   ],
   "consumable_logs": [
@@ -2044,7 +2072,8 @@
       "stok_keluar": 0,
       "kelayakan": "Layak",
       "status": "Ada",
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 2,
@@ -2055,7 +2084,8 @@
       "stok_keluar": 0,
       "kelayakan": "Layak",
       "status": "Ada",
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 3,
@@ -2066,7 +2096,8 @@
       "stok_keluar": 0,
       "kelayakan": "Layak",
       "status": "Ada",
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 4,
@@ -2077,7 +2108,8 @@
       "stok_keluar": 0,
       "kelayakan": "Layak",
       "status": "Ada",
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 5,
@@ -2088,117 +2120,128 @@
       "stok_keluar": 0,
       "kelayakan": "Layak",
       "status": "Ada",
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 6,
       "nama_barang": "ALAT PEL",
       "kategori": "KEBERSIHAN",
-      "stok_awal": 0,
-      "stok_masuk": 20,
+      "stok_awal": 20,
+      "stok_masuk": 0,
       "stok_keluar": 0,
       "kelayakan": "Layak",
       "status": "Ada",
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 7,
       "nama_barang": "CUTTER KECIL",
       "kategori": "KEBERSIHAN",
-      "stok_awal": 0,
-      "stok_masuk": 20,
+      "stok_awal": 20,
+      "stok_masuk": 0,
       "stok_keluar": 0,
       "kelayakan": "Layak",
       "status": "Ada",
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 8,
       "nama_barang": "KERANJANG SAMPAH",
       "kategori": "KEBERSIHAN",
-      "stok_awal": 0,
-      "stok_masuk": 20,
+      "stok_awal": 20,
+      "stok_masuk": 0,
       "stok_keluar": 0,
       "kelayakan": "Layak",
       "status": "Ada",
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 9,
       "nama_barang": "SAPU IJUK",
       "kategori": "KEBERSIHAN",
-      "stok_awal": 0,
-      "stok_masuk": 20,
+      "stok_awal": 20,
+      "stok_masuk": 0,
       "stok_keluar": 0,
       "kelayakan": "Layak",
       "status": "Ada",
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 10,
       "nama_barang": "SAPU LIDI",
       "kategori": "KEBERSIHAN",
-      "stok_awal": 0,
-      "stok_masuk": 18,
+      "stok_awal": 18,
+      "stok_masuk": 0,
       "stok_keluar": 0,
       "kelayakan": "Layak",
       "status": "Ada",
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 11,
       "nama_barang": "SEKOP SAMPAH",
       "kategori": "KEBERSIHAN",
-      "stok_awal": 0,
-      "stok_masuk": 10,
+      "stok_awal": 10,
+      "stok_masuk": 0,
       "stok_keluar": 0,
       "kelayakan": "Layak",
       "status": "Ada",
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 12,
       "nama_barang": "MATRAS",
       "kategori": "OLAHRAGA",
-      "stok_awal": 0,
-      "stok_masuk": 2,
+      "stok_awal": 2,
+      "stok_masuk": 0,
       "stok_keluar": 0,
       "kelayakan": "Layak",
       "status": "Ada",
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 13,
       "nama_barang": "BOLA BASKET MOLTEN",
       "kategori": "OLAHRAGA",
-      "stok_awal": 0,
-      "stok_masuk": 3,
+      "stok_awal": 3,
+      "stok_masuk": 0,
       "stok_keluar": 0,
       "kelayakan": "Layak",
       "status": "Ada",
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 14,
       "nama_barang": "BOLA SEPAK",
       "kategori": "OLAHRAGA",
-      "stok_awal": 0,
-      "stok_masuk": 5,
+      "stok_awal": 5,
+      "stok_masuk": 0,
       "stok_keluar": 0,
       "kelayakan": "Layak",
       "status": "Ada",
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     },
     {
       "id": 15,
       "nama_barang": "GUNTING KECIL",
       "kategori": "ATK",
-      "stok_awal": 0,
-      "stok_masuk": 20,
+      "stok_awal": 20,
+      "stok_masuk": 0,
       "stok_keluar": 0,
       "kelayakan": "Layak",
       "status": "Ada",
-      "lokasi_barang": "RUANG STAF"
+      "lokasi_barang": "RUANG STAF",
+      "updated_at": "2026-11-26T20:54:12.500Z"
     }
   ],
   "equipment_logs": [
@@ -4201,11 +4244,11 @@
   "attempts": [],
   "exam_access": [],
   "day_status": {
-    "is_active": true,
+    "is_active": false,
     "date": "2026-11-26",
     "started_at": "2026-11-26T20:40:24.980Z",
-    "ended_at": "",
+    "ended_at": "2026-11-26T20:54:12.500Z",
     "started_by": "Administrator Inventaris",
-    "ended_by": ""
+    "ended_by": "Administrator Inventaris"
   }
 }
