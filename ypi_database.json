@@ -26,74 +26,7 @@
       "created_at": "2026-11-25T21:31:34.295Z"
     }
   ],
-  "consumables": [
-    {
-      "id": 1,
-      "nama_barang": "Kertas HVS A4 80gr",
-      "satuan": "Rim",
-      "kategori": "ATK",
-      "jumlah_awal": 20,
-      "barang_masuk": 15,
-      "barang_dipakai": 12,
-      "batas_menipis": 5,
-      "lokasi_barang": "Lemari Tata Usaha"
-    },
-    {
-      "id": 2,
-      "nama_barang": "Spidol Whiteboard Hitam",
-      "satuan": "Pcs",
-      "kategori": "ATK",
-      "jumlah_awal": 30,
-      "barang_masuk": 12,
-      "barang_dipakai": 38,
-      "batas_menipis": 6,
-      "lokasi_barang": "Ruang Guru"
-    },
-    {
-      "id": 3,
-      "nama_barang": "Tinta Printer Epson 003",
-      "satuan": "Botol",
-      "kategori": "ATK",
-      "jumlah_awal": 8,
-      "barang_masuk": 4,
-      "barang_dipakai": 9,
-      "batas_menipis": 3,
-      "lokasi_barang": "Ruang TU"
-    },
-    {
-      "id": 4,
-      "nama_barang": "Sabun Cuci Tangan",
-      "satuan": "Botol",
-      "kategori": "Kebersihan",
-      "jumlah_awal": 15,
-      "barang_masuk": 10,
-      "barang_dipakai": 25,
-      "batas_menipis": 4,
-      "lokasi_barang": "Gudang Kebersihan"
-    },
-    {
-      "id": 5,
-      "nama_barang": "Kapur Barus & Pewangi",
-      "satuan": "Pak",
-      "kategori": "Kebersihan",
-      "jumlah_awal": 12,
-      "barang_masuk": 6,
-      "barang_dipakai": 8,
-      "batas_menipis": 4,
-      "lokasi_barang": "Gudang Kebersihan"
-    },
-    {
-      "id": 6,
-      "nama_barang": "Plester & Kasa Steril",
-      "satuan": "Kotak",
-      "kategori": "Kesehatan / UKS",
-      "jumlah_awal": 10,
-      "barang_masuk": 5,
-      "barang_dipakai": 4,
-      "batas_menipis": 3,
-      "lokasi_barang": "Ruang UKS"
-    }
-  ],
+  "consumables": [],
   "consumable_logs": [
     {
       "id": 1,
