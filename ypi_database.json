@@ -334,17 +334,6 @@
       "barang_dipakai": 0,
       "batas_menipis": 5,
       "lokasi_barang": "RUANG STAFF"
-    },
-    {
-      "id": 29,
-      "nama_barang": "CAIRAN PEMBERSIH LANTAI",
-      "satuan": "Pcs",
-      "kategori": "KEBERSIHAN",
-      "jumlah_awal": 0,
-      "barang_masuk": 20,
-      "barang_dipakai": 0,
-      "batas_menipis": 5,
-      "lokasi_barang": "RUANG STAFF"
     }
   ],
   "consumable_logs": [
