@@ -51,53 +51,7 @@
       "keterangan": "Kebutuhan KBM kelas"
     }
   ],
-  "books": [
-    {
-      "id": 1,
-      "nama_barang": "Matematika Tingkat Lanjut Kelas XII",
-      "kategori_buku": "Buku Pelajaran Utama",
-      "jenjang_kelas": 12,
-      "tahun_terbit": "2024",
-      "tanggal_masuk": "2026-10-25",
-      "jumlah_masuk": 60,
-      "tanggal_keluar": "2026-11-25",
-      "jumlah_keluar": 18,
-      "tanggal_pengembalian": "2026-11-23",
-      "jumlah_dikembalikan": 5,
-      "kelayakan": "Layak",
-      "lokasi_buku": "Rak A1 Perpustakaan"
-    },
-    {
-      "id": 2,
-      "nama_barang": "Bahasa Indonesia Kelas X Kurikulum Merdeka",
-      "kategori_buku": "Buku Pelajaran Utama",
-      "jenjang_kelas": 10,
-      "tahun_terbit": "2024",
-      "tanggal_masuk": "2026-10-30",
-      "jumlah_masuk": 50,
-      "tanggal_keluar": "2026-11-25",
-      "jumlah_keluar": 10,
-      "tanggal_pengembalian": "",
-      "jumlah_dikembalikan": 0,
-      "kelayakan": "Layak",
-      "lokasi_buku": "Rak A2 Perpustakaan"
-    },
-    {
-      "id": 3,
-      "nama_barang": "Modul Latihan Soal UTBK SNBT Penalaran Matematika",
-      "kategori_buku": "Buku Pelajaran Penunjang",
-      "jenjang_kelas": 12,
-      "tahun_terbit": "2025",
-      "tanggal_masuk": "2026-11-10",
-      "jumlah_masuk": 40,
-      "tanggal_keluar": "2026-11-25",
-      "jumlah_keluar": 12,
-      "tanggal_pengembalian": "2026-11-24",
-      "jumlah_dikembalikan": 4,
-      "kelayakan": "Layak",
-      "lokasi_buku": "Rak B1 Ruang Referensi"
-    }
-  ],
+  "books": [],
   "book_logs": [
     {
       "id": 1,
