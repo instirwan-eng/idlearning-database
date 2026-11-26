@@ -2563,5 +2563,13 @@
     }
   ],
   "attempts": [],
-  "exam_access": []
+  "exam_access": [],
+  "day_status": {
+    "is_active": true,
+    "date": "2026-11-26",
+    "started_at": "2026-11-26T20:40:24.980Z",
+    "ended_at": "",
+    "started_by": "Administrator Inventaris",
+    "ended_by": ""
+  }
 }
