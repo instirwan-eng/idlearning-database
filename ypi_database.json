@@ -80,41 +80,7 @@
       "keterangan": "Bimbingan intensif"
     }
   ],
-  "equipment": [
-    {
-      "id": 1,
-      "nama_barang": "Proyektor LCD Epson EB-X500",
-      "kategori": "Elektronik",
-      "stok_awal": 8,
-      "stok_masuk": 2,
-      "stok_keluar": 1,
-      "kelayakan": "Layak",
-      "status": "Ada",
-      "lokasi_barang": "Ruang Multimedia & Kelas"
-    },
-    {
-      "id": 2,
-      "nama_barang": "Meja Belajar Siswa Kayu Jati",
-      "kategori": "Mebel / Furnitur",
-      "stok_awal": 120,
-      "stok_masuk": 20,
-      "stok_keluar": 5,
-      "kelayakan": "Layak",
-      "status": "Ada",
-      "lokasi_barang": "Ruang Kelas 1 - 12"
-    },
-    {
-      "id": 3,
-      "nama_barang": "Kursi Guru Ergonomis",
-      "kategori": "Mebel / Furnitur",
-      "stok_awal": 24,
-      "stok_masuk": 4,
-      "stok_keluar": 2,
-      "kelayakan": "Perlu Perbaikan",
-      "status": "Sedang Diperbaiki",
-      "lokasi_barang": "Bengkel Sarpras"
-    }
-  ],
+  "equipment": [],
   "equipment_logs": [
     {
       "id": 1,
